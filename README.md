@@ -1,7 +1,7 @@
 ## SURI Project in Summer 2024 
 
 
-This project was sponsored by Swanson School of Engineering. The objective is to integrate demand forecasting into inventory control policy making. An outcome of academic papar abstract was produced.
+This project was sponsored by Swanson School of Engineering. The objective is to integrate demand forecasting into inventory control policy making for medium-sized restaurants. An outcome of academic papar abstract was produced.
 
 Literature contains the original codes and paper from reference studies
 Detailed content is mentioned in the abstract.
