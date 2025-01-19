@@ -1,0 +1,1990 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:BookSection rdf:about="urn:isbn:978-1-4471-5102-9">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-1-4471-5102-9</dc:identifier>
+                <dc:title>Encyclopedia of Systems and Control</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>P.Sethi</foaf:surname>
+                        <foaf:givenName>Suresh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baillieul</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Samad</foaf:surname>
+                        <foaf:givenName>Tariq</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_23"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>(s,S) policy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Base stock policy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>EOQ model</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Incomplete information</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Newsvendor model</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Inventory Theory</dc:title>
+        <dcterms:abstract>This entry is a brief survey of classical inventory models and their extensions in several directions such as world-driven demands, presence of forecast updates, multi-delivery modes and advanced demand information, incomplete inventory information, and decentralized inventory control in the context of supply chain management. Important references are provided. We conclude with suggestions for future research.</dcterms:abstract>
+        <dc:date>2014</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1007/978-1-4471-5102-9_44-1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-20 05:30:58</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1007/978-1-4471-5102-9_44-1</dc:description>
+        <bib:pages>1-7</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/23/P.Sethi - 2014 - Inventory Theory.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2F978-1-4471-5102-9_44-1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-20 05:30:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1108/IJCHM-01-2016-0046">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0959-6119"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DiPietro</foaf:surname>
+                        <foaf:givenName>Robin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_158"/>
+        <dc:title>Restaurant and foodservice research: A critical reflection behind and an optimistic look ahead</dc:title>
+        <dcterms:abstract>Purpose The purpose of this paper is to present a review of the foodservice and restaurant literature that has been published over the past 10 years in the top hospitality and tourism journals. This information will be used to identify the key trends and topics studied over the past decade, and help to identify the gaps that appear in the research to identify opportunities for advancing future research in the area of foodservice and restaurant management.Design/methodology/approach This paper takes the form of a critical review of the extant literature that has been done in the foodservice and restaurant industries. Literature from the past 10 years will be qualitatively assessed to determine trends and gaps in the research to help guide the direction for future research.Findings The findings show that the past 10 years have seen an increase in the number of and the quality of foodservice and restaurant management research articles. The topics have been diverse and the findings have explored the changing and evolving segments of the foodservice industry, restaurant operations, service quality in foodservice, restaurant finance, foodservice marketing, food safety and healthfulness and the increased role of technology in the industry.Research limitations/implications Given the number of research papers done over the past 10 years in the area of foodservice, it is possible that some research has been missed and that some specific topics within the breadth and depth of the foodservice industry could have lacked sufficient coverage in this one paper. The implications from this paper are that it can be used to inform academics and practitioners where there is room for more research, it could provide ideas for more in-depth discussion of a specific topic and it is a detailed start into assessing the research done of late.Originality/value This paper helps foodservice researchers in determining where past research has gone and gives future direction for meaningful research to be done in the foodservice area moving forward to inform academicians and practitioners in the industry.</dcterms:abstract>
+        <dc:date>2017-01-01</dc:date>
+        <z:shortTitle>Restaurant and foodservice research</z:shortTitle>
+        <z:libraryCatalog>Emerald Insight</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1108/IJCHM-01-2016-0046</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-06 11:32:53</dcterms:dateSubmitted>
+        <dc:description>Publisher: Emerald Publishing Limited</dc:description>
+        <bib:pages>1203-1234</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0959-6119">
+        <prism:volume>29</prism:volume>
+        <dc:title>International Journal of Contemporary Hospitality Management</dc:title>
+        <dc:identifier>DOI 10.1108/IJCHM-01-2016-0046</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 0959-6119</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_158">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/158/DiPietro - 2017 - Restaurant and foodservice research A critical re.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.emerald.com/insight/content/doi/10.1108/IJCHM-01-2016-0046/full/pdf?title=restaurant-and-foodservice-research-a-critical-reflection-behind-and-an-optimistic-look-ahead</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-06 11:32:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://pitt.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,uid&amp;db=aph&amp;AN=10445956&amp;scope=site">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00411655"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bertsimas</foaf:surname>
+                        <foaf:givenName>Dimitris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Popescu</foaf:surname>
+                        <foaf:givenName>Ioana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_205"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>DYNAMIC programming</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>INVENTORY control</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>LINEAR programming</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>PRICE regulation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>PRICES</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>REVENUE management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>TRANSPORTATION</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Revenue Management in a Dynamic Network Environment</dc:title>
+        <dcterms:abstract>We investigate dynamic policies for allocating scarce inventory to stochastic demand for multiple fare classes, in a network environment so as to maximize total expected revenues. Typical applications include sequential reservations for an airline network, hotel, or car rental service. We propose and analyze a new algorithm based on approximate dynamic programming, both theoretically and computationally. This algorithm uses adaptive, nonadditive bid prices from a linear programming relaxation. We provide computational results that give insight into the performance of the new algorithm and the widely used bid-price control, for several networks and demand scenarios. We extend the proposed algorithm to handle cancellations and no-shows by incorporating oversales decisions in the underlying linear programming formulation. We report encouraging computational results that show that the new algorithm leads to higher revenues and more robust performance than bid-price control.</dcterms:abstract>
+        <dc:date>2003-08</dc:date>
+        <z:libraryCatalog>EBSCOhost</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://pitt.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,uid&amp;db=aph&amp;AN=10445956&amp;scope=site</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 11:18:26</dcterms:dateSubmitted>
+        <dc:description>Publisher: INFORMS: Institute for Operations Research</dc:description>
+        <bib:pages>257-277</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00411655">
+        <prism:volume>37</prism:volume>
+        <dc:title>Transportation Science</dc:title>
+        <dc:identifier>DOI 10.1287/trsc.37.3.257.16047</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 00411655</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_205">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/205/Bertsimas and Popescu - 2003 - Revenue Management in a Dynamic Network Environmen.pdf"/>
+        <dc:title>EBSCO Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://content.ebscohost.com/cds/retrieve?content=AQICAHiylJ_bvOB56hI8UzTN6Ryruh7a0kiIBN_ANwtaWYjmxwGib-sYZIwqylDheqvmwl0dAAAA1jCB0wYJKoZIhvcNAQcGoIHFMIHCAgEAMIG8BgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDLVnne81F-FMCVLdowIBEICBjoD2Wl_ORmhplXzPmbNgUN7ji2lChBVgV0e-FhK372NBt64DWyLT7lh3iAGJKLjf4r2ush-0qRALfqQbGJkXPqbHwJZES6wajR8MgTUNZXc_41RXp-yjLi7bPLCAt_sCerDUJGk4-_iLDt84W8KVDYzvV72_Bs7q6qjY7Ke-M7vvYU4zW1xww393ygGbrIQ=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 11:18:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S1877042812052172">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1877-0428"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramadhan</foaf:surname>
+                        <foaf:givenName>Andrian Nur</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Simatupang</foaf:surname>
+                        <foaf:givenName>Togar M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_207"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Continuous Review Policy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Expired Time</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Inventory Management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Periodic Review Policy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Roemah Keboen</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Root Cause Analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Waste Materials</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Determining Inventory Management Policy for Perishable Materials in Roemah Keboen Restaurant</dc:title>
+        <dcterms:abstract>Roemah Keboen is a company engaged in restaurant industry that faces an inventory management of wasted materials because the materials have shelf life or expired time and can perish on a fixed time. This study was conducted to find appropriate policy to improve Roemah Keboen inventory management and solve the problem that Roemah Keboen faces. The step to improve inventory management of Roemah Keboen starts from describing the business process of Roemah Keboen. By describing each process, the root causes of the problem can identified and analyzed. The root cause occurs in Roemah Keboen is the executive chef conducted the responsibility of determining the amount of materials ordered and timely scheduling of orders in a subjective manner. It makes the wasted materials number is on high level. The proposed solutions are based on periodic review policy and continuous review policy. The best policy selected after calculating the total cost of each policy and comparing the two policies as well as considering their outdated and lost sales cost. Overall, the continuous review policy gives a lower cost after the policy is compared with the periodic review policy and current system.</dcterms:abstract>
+        <dc:date>2012-12-03</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1877042812052172</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 11:22:41</dcterms:dateSubmitted>
+        <bib:pages>992-999</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1877-0428">
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>International Congress on Interdisciplinary Business and Social Sciences 2012 (ICIBSoS 2012)</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>65</prism:volume>
+        <dc:title>Procedia - Social and Behavioral Sciences</dc:title>
+        <dc:identifier>DOI 10.1016/j.sbspro.2012.11.232</dc:identifier>
+        <dcterms:alternative>Procedia - Social and Behavioral Sciences</dcterms:alternative>
+        <dc:identifier>ISSN 1877-0428</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_207">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/207/S1877042812052172.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1877042812052172</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 11:22:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_208">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/208/Ilagueva_VKR.pdf"/>
+        <dc:title>Ilagueva_VKR.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dspace.spbu.ru/bitstream/11701/27235/1/Ilagueva_VKR.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 11:24:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_210">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koco</foaf:surname>
+                        <foaf:givenName>Megi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_209"/>
+        <dc:title>Measuring and optimizing inventory management processes for Restaurant X</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_209">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/209/Koco - Measuring and optimizing inventory management proc.pdf"/>
+        <dc:title>Koco - Measuring and optimizing inventory management proc.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theseus.fi/bitstream/handle/10024/156137/Measuring%20and%20optimizing%20inventory%20management%20processes%20for%20Restaurant%20X.pdf?sequence=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 11:33:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://jurnal.upnyk.ac.id/index.php/opsi/article/view/5330">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2686-2352,%201693-2102"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sarafi</foaf:surname>
+                        <foaf:givenName>Ichsan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nafisah</foaf:surname>
+                        <foaf:givenName>Laila</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muhsin</foaf:surname>
+                        <foaf:givenName>Ahmad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_213"/>
+        <dc:title>Inventory Policy Control Using a Continuous Review Model Based on Information Systems: A Case Study in a Restaurant Industry</dc:title>
+        <dcterms:abstract>The development of information technology has become a necessity for every company, one of which is the optimization of inventory planning. The joint warehouse owned by the Chickenpedia Restaurant which has to supply various types of raw materials to the three restaurant branches often experiences stock outs and has to make emergency orders resulting in losses. For this reason, it is necessary to control the inventory of raw materials in the shared warehouse so that stock outs can be overcome and losses that arise can be minimized. One of them is by using the Continuous Review method. By using this method, the optimal order quantity and reorder point will be obtained. The weakness is iterative calculation and monitoring of raw material stock manually. For this reason, it is necessary to support an information system to speed up and make it easier to calculate when to place an order and how many orders of raw materials to suppliers so as to reduce the occurrence of running out of raw materials. The Information System can also monitor the stock of raw materials every day in real time based on the number of incoming and outgoing goods that enter the application.</dcterms:abstract>
+        <dc:date>2021-12-21</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Inventory Policy Control Using a Continuous Review Model Based on Information Systems</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://jurnal.upnyk.ac.id/index.php/opsi/article/view/5330</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 11:39:38</dcterms:dateSubmitted>
+        <bib:pages>154</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2686-2352,%201693-2102">
+        <prism:volume>14</prism:volume>
+        <dc:title>OPSI</dc:title>
+        <dc:identifier>DOI 10.31315/opsi.v14i2.5330</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Jurnal Optimasi Sistem Industri</dcterms:alternative>
+        <dc:identifier>ISSN 2686-2352, 1693-2102</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_213">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/213/Sarafi et al. - 2021 - Inventory Policy Control Using a Continuous Review.pdf"/>
+        <dc:title>Sarafi et al. - 2021 - Inventory Policy Control Using a Continuous Review.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.neliti.com/media/publications/516896-inventory-policy-control-using-a-continu-53ad1379.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 11:39:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1177/1938965511410054">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1938-9655"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Chih-Yun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Te-Yi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_218"/>
+        <dc:title>Binomial Real Option Pricing for Restaurant Menu Analysis</dc:title>
+        <dcterms:abstract>Numerous researchers have proposed methods to improve the profitability of restaurant menus. The profit-analysis techniques that have been proposed generally assess menu items according to popularity as against comparative contribution margin or a similar scheme that theoretically allows managers to apply a portfolio adjustment approach or simply to replace items that are low in profitability. However, none of the analytical models discussed in the literature consider the element of time, which is an essential consideration in planning for menu item replacement. This study uses a real option pricing model to construct time-axis profiles of menu items and to analyze their potential profitability given varying time constraints. The analysis applies a binomial real option pricing model, as applied to actual data, and a real option pricing model was used to compare the advantages and benefits of different menu items. A comparison of the binomial model’s results with those of other menu analysis models found that the time-based model was more effective in determining how to construct a menu portfolio.</dcterms:abstract>
+        <dc:date>2011-08-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>SAGE Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1177/1938965511410054</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 14:28:27</dcterms:dateSubmitted>
+        <dc:description>Publisher: SAGE Publications Inc</dc:description>
+        <bib:pages>273-282</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1938-9655">
+        <prism:volume>52</prism:volume>
+        <dc:title>Cornell Hospitality Quarterly</dc:title>
+        <dc:identifier>DOI 10.1177/1938965511410054</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 1938-9655</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_218">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/218/Yang and Chang - 2011 - Binomial Real Option Pricing for Restaurant Menu A.pdf"/>
+        <dc:title>SAGE PDF Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/pdf/10.1177/1938965511410054</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 14:28:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1080/15378020802519850">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1537-8020"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCall</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lynn</foaf:surname>
+                        <foaf:givenName>Ann</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_220"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Menu item</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>perceptions</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>price</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>purchase intention</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>quality</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Effects of Restaurant Menu Item Descriptions on Perceptions of Quality, Price, and Purchase Intention</dc:title>
+        <dcterms:abstract>The restaurant menu sits at the core of a restaurant's strategy. A variety of suggestions have been made as to how restaurants should “manage” their menus: Some are derived empirically; others are driven intuitively without supporting evidence. This research note examines how menu description complexity can increase perceptions of item quality, expected price, and selection likelihood. It is recommended that restaurateurs would benefit significantly by carefully crafting menu descriptions that emphasize food preparation.</dcterms:abstract>
+        <dc:date>2008-12-10</dc:date>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1080/15378020802519850</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 14:30:34</dcterms:dateSubmitted>
+        <dc:description>Publisher: Routledge
+_eprint: https://doi.org/10.1080/15378020802519850</dc:description>
+        <bib:pages>439–445</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1537-8020">
+        <prism:volume>11</prism:volume>
+        <dc:title>Journal of Foodservice Business Research</dc:title>
+        <dc:identifier>DOI 10.1080/15378020802519850</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 1537-8020</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_220">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/220/McCall and Lynn - 2008 - The Effects of Restaurant Menu Item Descriptions o.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/pdf/10.1080/15378020802519850</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 14:30:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1108/09596110510620663">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>17</prism:volume>
+                <dc:title>International Journal of Contemporary Hospitality Management</dc:title>
+                <dc:identifier>DOI 10.1108/09596110510620663</dc:identifier>
+                <prism:number>7</prism:number>
+                <dc:identifier>ISSN 0959-6119</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robinson</foaf:surname>
+                        <foaf:givenName>Camille</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abbott</foaf:surname>
+                        <foaf:givenName>Je'Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shoemaker</foaf:surname>
+                        <foaf:givenName>Stowe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_222"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Brand awareness</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Brand equity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Catering industry</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Customer satisfaction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Relationship marketing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Recreating cheers: an analysis of relationship marketing as an effective marketing technique for quick‐service restaurants</dc:title>
+        <dcterms:abstract>Purpose – This paper reviews brand equity and customer satisfaction as they relate to customer loyalty and relationship marketing in an effort to understand and mitigate some of the challenges facing quick‐service restaurants (QSRs) today. Design/methodology/approach – The authors reviewed over 30 articles on the subjects of brand equity, customer equity, customer satisfaction, customer loyalty, communal relationships, relationship marketing, and pseudo‐relationship marketing, as well as researched and evaluated current marketing techniques used by selected QSRs. Findings – It is concluded by the authors that customer satisfaction, brand equity, and loyalty are invaluable to the formation of customer loyalty, as is the understanding that customers' relationships with companies need to be treated with the same respect as personal relationships. Practical implications – Customer loyalty has been shown to be beneficial to a company, both tangibly and intangibly. Companies are cautioned in their use of relationship marketing techniques used to foster customer loyalty and encouraged to use methods that benefit both themselves and their customers. Originality/value – This paper analyzes many different factors that affect customer loyalty, as well as discusses how relationship marketing techniques can be utilized by the QSR industry.</dcterms:abstract>
+        <dc:date>2005-01-01</dc:date>
+        <z:shortTitle>Recreating cheers</z:shortTitle>
+        <z:libraryCatalog>Emerald Insight</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1108/09596110510620663</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 14:48:18</dcterms:dateSubmitted>
+        <dc:description>Publisher: Emerald Group Publishing Limited</dc:description>
+        <bib:pages>590-599</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_222">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/222/Robinson et al. - 2005 - Recreating cheers an analysis of relationship mar.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.emerald.com/insight/content/doi/10.1108/09596110510620663/full/pdf?title=recreating-cheers-an-analysis-of-relationship-marketing-as-an-effective-marketing-technique-for-quickservice-restaurants</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-15 14:48:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://alife-robotics.co.jp/LP/2024/OS18-5.htm">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2188-7829"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ancilla</foaf:surname>
+                        <foaf:givenName>Gabriela Maria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rajagopal</foaf:surname>
+                        <foaf:givenName>Heshalini</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Al-Qasem Al-Hadi</foaf:surname>
+                        <foaf:givenName>Ismail Ahmed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rajagopal</foaf:surname>
+                        <foaf:givenName>Renuka Devi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mokthar</foaf:surname>
+                        <foaf:givenName>Norrima</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_275"/>
+        <dc:title>Development of a Desktop Application Restaurant Management System</dc:title>
+        <dcterms:abstract>The number of restaurants has grown rapidly around the world, the awareness of managing it efficiently has increased. This necessity yields the idea to invent a restaurant management system (RMS). This RMS will bring several benefits such as greater management of a restaurant, reduced resources cost, raise profit, and time-saving by allowing the admin to manage the restaurant easily through the functionality provided in the system. The provided features include adding, updating, and deleting information, stock calculation and auto re-order stock items, ingredients management, and finance calculation.</dcterms:abstract>
+        <dc:date>2024-2-22</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://alife-robotics.co.jp/LP/2024/OS18-5.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-13 05:09:24</dcterms:dateSubmitted>
+        <bib:pages>510-517</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2188-7829">
+        <prism:volume>29</prism:volume>
+        <dc:title>Proceedings of International Conference on Artificial Life and Robotics</dc:title>
+        <dc:identifier>DOI 10.5954/ICAROB.2024.OS18-5</dc:identifier>
+        <dc:identifier>ISSN 2188-7829</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_275">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/275/Ancilla et al. - 2024 - Development of a Desktop Application Restaurant Ma.pdf"/>
+        <dc:title>Ancilla et al. - 2024 - Development of a Desktop Application Restaurant Ma.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://alife-robotics.co.jp/members2024/icarob/data/html/data/OS/OS18-5.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-13 05:09:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_277">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_278"/>
+        <dc:title>Determining Inventory Management Policy for Perishable Materials in Roemah Keboen Restaurant</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_278">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/278/Determining Inventory Management Policy for Perish.pdf"/>
+        <dc:title>Determining Inventory Management Policy for Perish.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_279">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_281"/>
+        <dc:title>A lost sales (r, Q) inventory control model for perishables with fixed lifetime and lead time</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_281">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/281/_.pdf"/>
+        <dc:title>_.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org.pitt.idm.oclc.org/stable/2582993">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0160-5682"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Raafat</foaf:surname>
+                        <foaf:givenName>Fred</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_283"/>
+        <dc:title>Survey of Literature on Continuously Deteriorating Inventory Models</dc:title>
+        <dcterms:abstract>This paper presents a complete and up-to-date survey of published inventory literature for the deteriorating (decaying) inventory models. More specifically, those papers are addressed that consider the effect of deterioration as a function of the on-hand level of inventory. The basic features, extensions and generalization of various models are discussed. A classification scheme is presented along with suggestions for future research.</dcterms:abstract>
+        <dc:date>1991</dc:date>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org.pitt.idm.oclc.org/stable/2582993</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 03:38:15</dcterms:dateSubmitted>
+        <dc:description>Publisher: Palgrave Macmillan Journals</dc:description>
+        <bib:pages>27-37</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0160-5682">
+        <prism:volume>42</prism:volume>
+        <dc:title>The Journal of the Operational Research Society</dc:title>
+        <dc:identifier>DOI 10.2307/2582993</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0160-5682</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_283">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/283/Raafat - 1991 - Survey of Literature on Continuously Deteriorating.pdf"/>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www-jstor-org.pitt.idm.oclc.org/stable/pdfplus/10.2307/2582993.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 03:38:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0925527314001972">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0925-5273"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haijema</foaf:surname>
+                        <foaf:givenName>Rene</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_286"/>
+        <link:link rdf:resource="#item_285"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Blood product</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Disposal policy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dynamic programming</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Food</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Inventory management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Issuing policy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Markov decision problem</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Order policy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Perishability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Simulation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Withdrawal policy</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Optimal ordering, issuance and disposal policies for inventory management of perishable products</dc:title>
+        <dcterms:abstract>Perishables, such as packed fresh food and pharmaceutical products (a.o. blood products), typically have a fixed shelf life set by a fixed use-by date or sell-by date. Despite their limited life time, orders in practice are usually based on the stock level irrespective of the ages of the products in stock. The management of inventories of such products can be improved by applying stock-age dependent ordering, issuing, and disposal policies. This paper investigates cost reductions that can be achieved by an optimal stock-age dependent ordering, issuing, or disposal policy as obtained by Stochastic Dynamic Programming. Orders are made before the uncertain demand is revealed. When demand turns out to be relatively low, a disposal policy enables to get rid of excess (old) stock. Disposal decisions are an understudied area, but may be relevant to retailers for which displaying the freshest items is of high importance. Also blood banks prefer not to issue products that are about to expire as transfusion of younger blood products is more effective. This paper fills a research gap identified in Karaesmen et al. (2011): the paper appears to be the first to report optimal stock-age dependent disposal decisions, both under a base stock policy and under optimal stock-age dependent ordering. Results of optimal stock-age dependent ordering, disposal, and issuance are compared to a base stock policy, which is commonly used in practice. Under FIFO issuance, the added value of an optimal disposal policy is high. An optimal disposal policy in combination with optimal ordering reduces the average costs only when issuing old products is penalized, e.g. by selling at a discounted price. Under LIFO issuance, an optimal disposal policy has significant impact when orders are set by a BSP, but not under optimal stock-age dependent ordering. When no penalty or discount applies, disposals reduce costs only in case of suboptimal ordering, e.g. by a BSP.</dcterms:abstract>
+        <dc:date>2014-11-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0925527314001972</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 03:39:00</dcterms:dateSubmitted>
+        <bib:pages>158-169</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0925-5273">
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>The International Society for Inventory Research, 2012</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>157</prism:volume>
+        <dc:title>International Journal of Production Economics</dc:title>
+        <dc:identifier>DOI 10.1016/j.ijpe.2014.06.014</dc:identifier>
+        <dcterms:alternative>International Journal of Production Economics</dcterms:alternative>
+        <dc:identifier>ISSN 0925-5273</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_286">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/286/Haijema - 2014 - Optimal ordering, issuance and disposal policies f.pdf"/>
+        <dc:title>Haijema - 2014 - Optimal ordering, issuance and disposal policies f.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_285">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/285/S0925527314001972.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0925527314001972?via%3Dihub</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 03:39:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_287">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_288"/>
+        <dc:title>Managing Perishable and Aging Inventories: Review and Future Research Directions</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_288">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/288/Managing Perishable and Aging Inventories Review .pdf"/>
+        <dc:title>Managing Perishable and Aging Inventories Review .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://ieeexplore.ieee.org/document/9608492/?arnumber=9608492">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2021 13th International Conference on Information &amp; Communication Technology and System (ICTS)</dc:title>
+                <dc:identifier>DOI 10.1109/ICTS52701.2021.9608492</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siek</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guswanto</foaf:surname>
+                        <foaf:givenName>Kevin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_293"/>
+        <link:link rdf:resource="#item_292"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Inventory management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Companies</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Costs</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>inventory optimization and control</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>machine learning algorithm</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine learning algorithms</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Predictive models</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>time series forecasting</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Waste reduction</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Weapons</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Developing Accurate Predictive Model Using Computational Intelligence for Optimal Inventory Management</dc:title>
+        <dcterms:abstract>People are all currently living in the world where data has changed how company think, act and plan. Data, if used correctly, might be able to become a company's sharpest weapon in fighting the competition with other companies. Inventory cost is one of the most burdening costs in the food and beverage industry with the items like degradable raw materials or fresh ingredients. If not managed correctly might become a waste causing loss to the company. Degraded ingredients also might lower the overall food quality which might result in unsatisfied customers. Managing inventory, however, is not as easy as it seems, especially with the traditional method. This paper focuses on development of accurate predictive model using computational intelligence for optimal inventory management with a case study of restaurant ingredient management. Several machine learning algorithms like linear regression, multi-layer perceptron, random tree, random forest, and model trees were utilized to build accurate predictive models from time series data of the restaurant inventory. With good prediction system using computational intelligence, the inventory cost and wasted ingredients can be significantly reduced, which this eventually maximizes the profit.</dcterms:abstract>
+        <dc:date>2021-10</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9608492/?arnumber=9608492</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 03:54:37</dcterms:dateSubmitted>
+        <bib:pages>218-223</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2021 13th International Conference on Information &amp; Communication Technology and System (ICTS)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_293">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/293/9608492.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9608492/?arnumber=9608492</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 03:54:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_292">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/292/Siek and Guswanto - 2021 - Developing Accurate Predictive Model Using Computa.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=9608492&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 03:54:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://wjarr.com/content/optimizing-inventory-management-and-demand-forecasting-system-using-time-series-algorithm">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:25819615"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Alexandra An Pavon Arnaiz</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Lovely Samuele Cristal</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Antonette Obligado Fernandez</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mark Rowie Flores Gubaton</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Domingo Valenzuela Tanael</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Criselle Jose Centeno</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_294"/>
+        <dc:title>Optimizing inventory management and demand forecasting system using time series algorithm</dc:title>
+        <dcterms:abstract>In the rapidly evolving business landscape, effective inventory management and meeting customer demands rely heavily on accurate forecasting. While technology automates parts of inventory control, human expertise remains vital in decision-making for forecasting. Building supplier relationships, monitoring market trends, and adaptable supply chains are crucial too. Accurate demand forecasting reduces costs, streamlines operations, and boosts customer satisfaction. Therefore, companies must carefully review their forecasting methods to stay competitive. Researchers are addressing the lack of data on inventory and forecasting by focusing on implementing time series algorithms, recognizing their crucial role in optimizing these processes. This academic pursuit has led researchers to develop a userfriendly system tailored for improved inventory management, integrating a feature set dedicated to demand forecasting. The project aims to streamline user operations by offering an intuitive platform that facilitates seamless navigation. By encompassing forecasting capabilities, the system empowers businesses to accurately predict their future product requirements. The primary objective of this initiative is to simplify inventory procedures while enabling users to proactively meet upcoming demands effectively. While conducting the study, the researcher considered the first problem in how the user will use the inventory system in a more user-friendly manner. The second problem that the researchers conducted was manual input, and it will cost more when the documents are not organized. Lastly, the highest problem that the inventory management conducted was the overseers of the products by excessive inventory, low stocks, and expired products. The researchers use some of the sub-characteristics of ISO 25010 that are appropriate for evaluating inventory management. After evaluation, the sub-characteristics of functional stability garnered an overall weighted mean of 3.90. The compatibility and usability garnered an overall weight of 3.89. Reliability garnered an overall weight of 3.66. Lastly, maintainability was overall weighted at 3.63. The confusion matrix was used with the help of the tool of Weka Software using the scheme of function. Simple Logistics. The evaluation on the training set has a summary of correctly classified instances of 89.4737% and incorrectly classified instances of 10.5263%, which indicates that the application has an accurate algorithm.</dcterms:abstract>
+        <dc:date>2023-12-30</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://wjarr.com/content/optimizing-inventory-management-and-demand-forecasting-system-using-time-series-algorithm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 03:55:15</dcterms:dateSubmitted>
+        <bib:pages>021-027</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:25819615">
+        <prism:volume>20</prism:volume>
+        <dc:title>World Journal of Advanced Research and Reviews</dc:title>
+        <dc:identifier>DOI 10.30574/wjarr.2023.20.3.2456</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>World J. Adv. Res. Rev.</dcterms:alternative>
+        <dc:identifier>ISSN 25819615</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_294">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/294/Alexandra An Pavon Arnaiz et al. - 2023 - Optimizing inventory management and demand forecas.pdf"/>
+        <dc:title>Alexandra An Pavon Arnaiz et al. - 2023 - Optimizing inventory management and demand forecas.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://wjarr.com/sites/default/files/WJARR-2023-2456.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 03:55:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_296">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_297"/>
+        <dc:title>Machine Learning Based Restaurant Sales Forecasting</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_297">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/297/Machine Learning Based Restaurant Sales Forecastin.pdf"/>
+        <dc:title>Machine Learning Based Restaurant Sales Forecastin.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.proquest.com/openview/0896ba645c57690d03b82d46048d1f9e/1?pq-origsite=gscholar&amp;cbl=5460956">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_301"/>
+        <link:link rdf:resource="#item_300"/>
+        <dc:title>A Review of Forecasting Studies for the Restaurant Industry: Focusing on results, contributions and limitations - ProQuest</dc:title>
+        <dcterms:abstract>Explore millions of resources from scholarly journals, books, newspapers, videos and more, on the ProQuest Platform.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:shortTitle>A Review of Forecasting Studies for the Restaurant Industry</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/openview/0896ba645c57690d03b82d46048d1f9e/1?pq-origsite=gscholar&amp;cbl=5460956</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 04:06:16</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_301">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/301/A Review of Forecasting Studies for the Restaurant.pdf"/>
+        <dc:title>A Review of Forecasting Studies for the Restaurant.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_300">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/300/1.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/openview/0896ba645c57690d03b82d46048d1f9e/1?pq-origsite=gscholar&amp;cbl=5460956</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 04:06:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_302">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_298"/>
+        <dc:title>An Exploratory Investigation of the Sales Forecasting Process in the Casual Theme and Family Dining Segments of Commercial Restaurant Corporations</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_298">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/298/content.pdf"/>
+        <dc:title>content.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://vtechworks.lib.vt.edu/server/api/core/bitstreams/be125076-1082-4260-a642-a46da386b30c/content</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-19 04:03:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_303">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_304"/>
+        <dc:title>Machine Learning for Restaurant Sales Forecast</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_304">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/304/Machine Learning for Restaurant Sales Forecast.pdf"/>
+        <dc:title>Machine Learning for Restaurant Sales Forecast.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1108/09596119610119949">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>International Journal of Contemporary Hospitality Management</dc:title>
+                <dc:identifier>DOI 10.1108/09596119610119949</dc:identifier>
+                <prism:number>4</prism:number>
+                <dc:identifier>ISSN 0959-6119</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morrison</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_336"/>
+        <dc:title>Menu engineering in upscale restaurants</dc:title>
+        <dcterms:abstract>Profiles the development of menu‐engineering models and, in particular, the movement supporting the quantification of all costs associated with the production of a menu item. Reports the findings of a study of upscale restaurant menu planners. While all menu planners adopted elements of menu engineering when planning menus, most rejected the opportunity to factor in non‐material direct costs as a major component of determining menu content and prices. In particular, individual dish labour cost was not considered an important menu‐planning criterion. Dishes which attracted low sales, but which planners felt added interest to the menu, were included on the menu. This supports the view of most advocates of quantitative menu analysis that the profitability of individual dishes on the menu is only one of several important criteria when designing the menu.</dcterms:abstract>
+        <dc:date>1996-01-01</dc:date>
+        <z:libraryCatalog>Emerald Insight</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1108/09596119610119949</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:39:22</dcterms:dateSubmitted>
+        <dc:description>Publisher: MCB UP Ltd</dc:description>
+        <bib:pages>17-24</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_336">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/336/Morrison - 1996 - Menu engineering in upscale restaurants.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www-emerald-com.pitt.idm.oclc.org/insight/content/doi/10.1108/09596119610119949/full/pdf?title=menu-engineering-in-upscale-restaurants</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:39:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.ijpab.com/vol11-iss1a3.php">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:25822845"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Department of Veterinary Sciences, Bahauddin Zikriya University Multan, Pakistan</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aman Ullah</foaf:surname>
+                        <foaf:givenName>Aman Ullah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_337"/>
+        <dc:title>Causes of Meat Deterioration and Preservation Methods</dc:title>
+        <dcterms:abstract>Humans have been practising the skill of meat preservation since the beginning of time, and this practice lives on in all of the foods we consume today. Primarily, meat preservation postpones the development of microorganisms like bacteria and fungi, so meat and its byproducts may sit on store shelves for longer without losing quality or flavour. Dysbiosis is the process by which any food, when exposed to organisms (bacterial and fungal), that degrade the products, changes from being edible to being inedible via denaturation of texture, color, and odor. Spoilage and a lack of storage skills during processing and analyzing generate a significant annual loss of meat and its byproducts for the economies of all countries. In general, organic material, lipid oxidation, and metabolic activity are the fundamental processes of meat deterioration. Traditional techniques for preserving food include drying, salting, pickling, and smoking, all of which aid in preservation when frozen. However, as time went on, new techniques for preserving food emerged, such as freezing, chilling, and irradiation, which significantly extended the period of preservation and made it easier to apply. Modern procedures, such as chilling and other freezing technologies, are used to preserve all manner of meat and meat products, extending their shelf life and improving their quality and texture by all but neutralizing the development of microorganisms.</dcterms:abstract>
+        <dc:date>2023-2-28</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ijpab.com/vol11-iss1a3.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:47:26</dcterms:dateSubmitted>
+        <bib:pages>14-22</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:25822845">
+        <prism:volume>11</prism:volume>
+        <dc:title>Indian Journal of Pure &amp; Applied Biosciences</dc:title>
+        <dc:identifier>DOI 10.18782/2582-2845.8970</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Ind. J. Pure App. Biosci.</dcterms:alternative>
+        <dc:identifier>ISSN 25822845</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_337">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/337/Department of Veterinary Sciences, Bahauddin Zikriya University Multan, Pakistan and Aman Ullah - 2023 - Causes of Meat Deterioration and Preservation Meth.pdf"/>
+        <dc:title>Department of Veterinary Sciences, Bahauddin Zikriya University Multan, Pakistan and Aman Ullah - 2023 - Causes of Meat Deterioration and Preservation Meth.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ijpab.com/form/2023%20Volume%2011,%20issue%201/IJPAB-2023-11-1-14-22.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:47:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://journals.sagepub.com/doi/epdf/10.1177/1082013207079610">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_341"/>
+        <link:link rdf:resource="#item_340"/>
+        <dc:title>Physical, Physiological and Microbial Deterioration of Minimally Fresh Processed Fruits and Vegetables</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/epdf/10.1177/1082013207079610</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:48:32</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1177/1082013207079610</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_341">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/341/Physical, Physiological and Microbial Deterioratio.pdf"/>
+        <dc:title>Physical, Physiological and Microbial Deterioratio.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_340">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/340/1082013207079610.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/epdf/10.1177/1082013207079610</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:48:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://journalijecc.com/index.php/IJECC/article/view/3025">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2581-8627"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jain</foaf:surname>
+                        <foaf:givenName>Shubham</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nidhi</foaf:surname>
+                        <foaf:givenName>Nivedita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ausari</foaf:surname>
+                        <foaf:givenName>Praveen Kumar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Sangam</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Das</foaf:surname>
+                        <foaf:givenName>Payel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Alok</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kumar</foaf:surname>
+                        <foaf:givenName>Lav</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sharma</foaf:surname>
+                        <foaf:givenName>Rohit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_342"/>
+        <dc:title>A Comprehensive Review on Nature and Causes of Deterioration in Fruits and Vegetables</dc:title>
+        <dcterms:abstract>The issue of post-harvest deterioration in fruits and vegetables constitutes a critical concern, especially given the rising global food security challenges. The aim of this review article is to present a comprehensive examination of the diverse facets contributing to the deterioration of these valuable food resources, ranging from biological and environmental factors to economic implications and current preservation methods. One area of focus involves scrutinizing the gaps in the current body of knowledge, particularly the intricate molecular mechanisms governing enzymatic activity and microbial spoilage. Recent developments in technology also present intriguing possibilities for future research. Artificial Intelligence (AI) offers transformative potential in monitoring the quality of stored produce by predicting the onset of spoilage using complex algorithms. This work also delves into the prospects of employing the Internet of Things (IoT) for real-time assessment and control of storage conditions, which could revolutionize supply chain management and significantly minimize deterioration during transport. Another exciting avenue lies in the utilization of novel packaging materials especially those which are biodegradable and may be imbued with natural preservatives, a move that aligns well with global sustainability goals. Any such technological advancements must be scrutinized in the context of existing food safety standards and regulations, both at the national and international levels. These standards govern everything from permissible microbial activity levels to waste management, and are dictated by organizations such as the FDA and EFSA, as well as international frameworks like the Codex Alimentarius.</dcterms:abstract>
+        <dc:date>2023-09-18</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journalijecc.com/index.php/IJECC/article/view/3025</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:52:28</dcterms:dateSubmitted>
+        <bib:pages>3548-3558</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2581-8627">
+        <prism:volume>13</prism:volume>
+        <dc:title>International Journal of Environment and Climate Change</dc:title>
+        <dc:identifier>DOI 10.9734/ijecc/2023/v13i103025</dc:identifier>
+        <prism:number>10</prism:number>
+        <dcterms:alternative>IJECC</dcterms:alternative>
+        <dc:identifier>ISSN 2581-8627</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_342">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/342/Jain et al. - 2023 - A Comprehensive Review on Nature and Causes of Det.pdf"/>
+        <dc:title>Jain et al. - 2023 - A Comprehensive Review on Nature and Causes of Det.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://wqjrwk3723.s3.ap-south-1.amazonaws.com/Jain13102023IJECC106086.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:52:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0101-20612018000500001&amp;tlng=en">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1678-457X,%200101-2061"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amaral</foaf:surname>
+                        <foaf:givenName>Ana Beatriz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva</foaf:surname>
+                        <foaf:givenName>Marcondes Viana Da</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lannes</foaf:surname>
+                        <foaf:givenName>Suzana Caetano Da Silva</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_346"/>
+        <link:link rdf:resource="#item_345"/>
+        <dc:title>Lipid oxidation in meat: mechanisms and protective factors – a review</dc:title>
+        <dcterms:abstract>Lipid oxidation is the main process responsible for the quality deterioration of meat and meat products by reducing shelf life (Min &amp; Ahn, 2005). Lipid oxidation affects color, texture, nutritional value, taste, and aroma leading to rancidity, wish is responsible for off-flavors and unacceptable taste, which are important reasons for consumer rejection (Lima et al., 2013). Considering that “quality” and “health” are known as some of the most important factors that influence food choice and that appearance, color, texture, taste, and aroma are the key quality attributes that affect meat acceptance, the control, or at least minimization, of the lipid oxidation process is of great interest to the food industry (Brøndum et al., 2000).</dcterms:abstract>
+        <dc:date>12/2018</dc:date>
+        <z:shortTitle>Lipid oxidation in meat</z:shortTitle>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0101-20612018000500001&amp;tlng=en</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:52:42</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>1-15</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1678-457X,%200101-2061">
+        <prism:volume>38</prism:volume>
+        <dc:title>Food Science and Technology</dc:title>
+        <dc:identifier>DOI 10.1590/fst.32518</dc:identifier>
+        <prism:number>suppl 1</prism:number>
+        <dcterms:alternative>Food Sci. Technol</dcterms:alternative>
+        <dc:identifier>ISSN 1678-457X, 0101-2061</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_346">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/346/Amaral et al. - 2018 - Lipid oxidation in meat mechanisms and protective.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdfs.semanticscholar.org/432f/f4351f6b76b8e9e97c36d08bbc020f64a348.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:52:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_345">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Reader Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/reader/9078dc72ef29b8d7e45f2259656d9b062f353da5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-24 21:52:43</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0167947301000147">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:01679473"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Lon-Mu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhattacharyya</foaf:surname>
+                        <foaf:givenName>Siddhartha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sclove</foaf:surname>
+                        <foaf:givenName>Stanley L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Rong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lattyak</foaf:surname>
+                        <foaf:givenName>William J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_350"/>
+        <dc:title>Data mining on time series: an illustration using fast-food restaurant franchise data</dc:title>
+        <dcterms:abstract>Given the widespread use of modern information technology, a large number of time series may be collected during normal business operations. We use a fast-food restaurant franchise as a case to illustrate how data mining can be applied to such time series, and help the franchise reap the benefits of such an effort. Time series data mining at both the store level and corporate level are discussed. Box-Jenkins seasonal ARIMA models are employed to analyze and forecast the time series. Instead of a traditional manual approach of Box-Jenkins modeling, an automatic time series modeling procedure is employed to analyze a large number of highly periodic time series. In addition, an automatic outlier detection and adjustment procedure is used for both model estimation and forecasting. The improvement in forecast performance due to outlier adjustment is demonstrated. Adjustment of forecasts based on stored historical estimates of like-events is also discussed. Outlier detection also leads to information that can be used not only for better inventory management and planning, but also to identify potential sales opportunities. To illustrate the feasibility and simplicity of the above automatic procedures for time series data mining, the SCA Statistical System is employed to perform the related analysis.</dcterms:abstract>
+        <dc:date>10/2001</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data mining on time series</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0167947301000147</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 09:24:47</dcterms:dateSubmitted>
+        <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+        <bib:pages>455-476</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:01679473">
+        <prism:volume>37</prism:volume>
+        <dc:title>Computational Statistics &amp; Data Analysis</dc:title>
+        <dc:identifier>DOI 10.1016/S0167-9473(01)00014-7</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Computational Statistics &amp; Data Analysis</dcterms:alternative>
+        <dc:identifier>ISSN 01679473</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_350">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/350/Liu et al. - 2001 - Data mining on time series an illustration using .pdf"/>
+        <dc:title>Liu et al. - 2001 - Data mining on time series an illustration using .pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://d1wqtxts1xzle7.cloudfront.net/51343747/Data_mining_on_time_series_an_illustrati20170113-20704-3jjurs-libre.pdf?1484350368=&amp;response-content-disposition=inline%3B+filename%3DData_mining_on_time_series_an_illustrati.pdf&amp;Expires=1721903047&amp;Signature=LOYjLr74eqikESjARObaaGpp3Ja66vAhR50ZskuJq1JUjXQFXjBTQqLqXWz14D0j1ZIO1k6OjbEofgFoCX0O9cKbeL7S8Dk7e8VSZGTNj6gUWuzQbeUde9hfJKjSA18Ue3DESifaWRc8Bw53uE4JbRtby1q~nGKAbkYMaz7CMflkBAEDNEQ6zHx7SaJma0deBFn113AF8rr4dQJDGxHL6IPFtAZuvl2iak3AcE8TuvWdekF8LY0a78aoALvOTDljgl100k1O~I-VKgBe9KeLNcCGsdgxAz0X6yWdcoJKl01gZQ0Jx~ILVgy6ZmM0g8R-v9HX2u-RWX0zo6zzzV-vLg__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 09:24:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://www.revistasg.uff.br/index.php/sg/article/view/1188">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <dc:title>Sistemas &amp; Gestão</dc:title>
+                <dc:identifier>DOI 10.20985/1980-5160.2018.v13n1.1188</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meneghini</foaf:surname>
+                        <foaf:givenName>Mateus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anzanello</foaf:surname>
+                        <foaf:givenName>Michel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kahmann</foaf:surname>
+                        <foaf:givenName>Alessandro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tortorella</foaf:surname>
+                        <foaf:givenName>Guilherme</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_426"/>
+        <link:link rdf:resource="#item_425"/>
+        <dc:title>Quantitative demand forecasting adjustment based on qualitative factors: case study at a fast food restaurant</dc:title>
+        <dcterms:abstract>This paper proposes a method of forecasting demand that integrates quantitative models with qualitative contextual factors. The proposed method selects the mathematical (quantitative) model that best fits the historical data, based on the determination coefficient R2 and the mean absolute percentage error (MAPE). Next, the forecasts generated by the selected model are adjusted based on expert opinion on contextual factors (judgemental adjustment), such as events and renovations, for example, not included in the historical data. The proposed method was applied at a fast food restaurant to forecast the demand of meat. The adjusted method yielded an average error of 10% in the worst scenario when compared to the real demand of the period, whereas the quantitative model, with no judgemental adjustment, led to an average error of 38%.</dcterms:abstract>
+        <dc:date>2018-3-10</dc:date>
+        <z:shortTitle>Quantitative demand forecasting adjustment based on qualitative factors</z:shortTitle>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.revistasg.uff.br/index.php/sg/article/view/1188</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 22:46:20</dcterms:dateSubmitted>
+        <dc:description>ISSN: 19805160
+Issue: 1
+Journal Abbreviation: S&amp;G</dc:description>
+        <bib:pages>68-80</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_426">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/426/Meneghini et al. - 2018 - Quantitative demand forecasting adjustment based o.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdfs.semanticscholar.org/8361/850be51a9a08e340c9955d7154a7af5543d8.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 22:46:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_425">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Reader Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/reader/8361850be51a9a08e340c9955d7154a7af5543d8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 22:46:21</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://ieeexplore.ieee.org/document/9466036/?arnumber=9466036">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2021 International Conference on Artificial Intelligence and Mechatronics Systems (AIMS)</dc:title>
+                <dc:identifier>DOI 10.1109/AIMS52415.2021.9466036</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zháo</foaf:surname>
+                        <foaf:givenName>Makmur A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jayadi</foaf:surname>
+                        <foaf:givenName>Riyanto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_431"/>
+        <link:link rdf:resource="#item_430"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Data models</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Predictive models</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Demand forecasting</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Demand Forecasting</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Fluctuations</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mechatronics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Point-of-Sale</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Prediction algorithms</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Restaurant Revenue Management (RRM)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Service engineering</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Short-term planning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Support vector machines</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Time-series models</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Forecasting Daily Visitors and Menu Demands in an Indonesian Chain Restaurant using Support Vector Regression Machine</dc:title>
+        <dcterms:abstract>Demand fluctuation is a critical factor in the everyday operating choices made by a restaurant. The aim of this study is to investigate menu demand forecasting in restaurants using Multiple Regression and Support Vector Regression Machine (SVR) algorithms to forecast potential visitors and menu demand using point-of-sale (POS) data. A model for predicting store-specific demand is proposed that takes into account variables such as seasonality, public holidays, and order peak times. The model's verification using fundamental restaurant data demonstrates that SVR will produce a percentage error of as low as 14.84 percent when forecasting restaurant guests and 31.2 percent when predicting restaurant menu demand. The results demonstrate that this approach is practical for forecasting revenue and consumer counts, as well as demonstrating that managers will learn about the variables that influence customer behaviors. There are extensive discussions and suggestions for potential studies on predicting and planning management in chain restaurant operations.</dcterms:abstract>
+        <dc:date>2021-04</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9466036/?arnumber=9466036</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 22:49:49</dcterms:dateSubmitted>
+        <bib:pages>1-6</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2021 International Conference on Artificial Intelligence and Mechatronics Systems (AIMS)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_431">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/431/9466036.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9466036/?arnumber=9466036</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 22:50:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_430">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/430/Zháo and Jayadi - 2021 - Forecasting Daily Visitors and Menu Demands in an .pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=9466036&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 22:49:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_434">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/434/Versluis_Daily_2016.pdf"/>
+        <dc:title>Versluis_Daily_2016.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repository.up.ac.za/bitstream/handle/2263/62857/Versluis_Daily_2016.pdf?sequence=1&amp;isAllowed=y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 23:28:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://clutejournals.com">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2157-8834"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Forst</foaf:surname>
+                        <foaf:givenName>Frank G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_436"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Box-Jenkins</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>forecasting sales</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>regression models</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>restaurant sales</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Forecasting Restaurant Sales Using Multiple Regression And Box-Jenkins Analysis</dc:title>
+        <dcterms:abstract>Several regression and Box-Jenkins models were used to forecast weekly sales at a small campus restaurant for Years 1 and 2.  Forecasted sales were compared with actual sales to select the three most promising forecasting models.  These three models were then used to forecast sales for the first 44 weeks of Year 3, and compared against actual sales.  The results indicate that a multiple regression model with two predictors, a dummy variable and sales lagged one week, was the best forecasting model considered.</dcterms:abstract>
+        <dc:date>1992-04-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>clutejournals.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://clutejournals.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 23:30:09</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c)</dc:rights>
+        <dc:description>Number: 2</dc:description>
+        <bib:pages>15-19</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2157-8834">
+        <prism:volume>8</prism:volume>
+        <dc:title>Journal of Applied Business Research (JABR)</dc:title>
+        <dc:identifier>DOI 10.19030/jabr.v8i2.6157</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 2157-8834</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_436">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/436/Forst - 1992 - Forecasting Restaurant Sales Using Multiple Regres.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://clutejournals.com/index.php/JABR/article/download/6157/6235</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-25 23:30:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S2212827119301568">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2212-8271"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tanizaki</foaf:surname>
+                        <foaf:givenName>Takashi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoshino</foaf:surname>
+                        <foaf:givenName>Tomohiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shimmura</foaf:surname>
+                        <foaf:givenName>Takeshi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Takenaka</foaf:surname>
+                        <foaf:givenName>Takeshi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_442"/>
+        <link:link rdf:resource="#item_444"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Demand forecasting</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Restaurant management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Service engineerring</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Statistical analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Demand forecasting in restaurants using machine learning and statistical analysis</dc:title>
+        <dcterms:abstract>In this paper, demand forecasting in restaurants using machine learning is proposed. Many researches have been proposed on demand forecasting technology using POS data. However, in order to make demand forecasts at a real store, it is necessary to establish a store-specific demand forecasting model in consideration of various factors such as the store location, the weather, events, etc. Therefore, we constructed a demand forecasting model that functionally combines the above mentioned data using machine learning. In this paper, the demand forecasting model using machine learning and the verification result of the model using real store data is discussed.</dcterms:abstract>
+        <dc:date>2019-01-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S2212827119301568</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-26 12:11:22</dcterms:dateSubmitted>
+        <bib:pages>679-683</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2212-8271">
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>12th CIRP Conference on Intelligent Computation in Manufacturing Engineering, 18-20 July 2018, Gulf of Naples, Italy</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>79</prism:volume>
+        <dc:title>Procedia CIRP</dc:title>
+        <dc:identifier>DOI 10.1016/j.procir.2019.02.042</dc:identifier>
+        <dcterms:alternative>Procedia CIRP</dcterms:alternative>
+        <dc:identifier>ISSN 2212-8271</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_442">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/442/S2212827119301568.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S2212827119301568</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-07-26 12:11:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_444">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/444/Tanizaki et al. - 2019 - Demand forecasting in restaurants using machine le.pdf"/>
+        <dc:title>Tanizaki et al. - 2019 - Demand forecasting in restaurants using machine le.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_9">
+        <dc:title>General</dc:title>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1108/IJCHM-01-2016-0046"/>
+        <dcterms:hasPart rdf:resource="https://alife-robotics.co.jp/LP/2024/OS18-5.htm"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_8">
+        <dc:title>Inventory management</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_16"/>
+        <dcterms:hasPart rdf:resource="#collection_14"/>
+        <dcterms:hasPart rdf:resource="#collection_15"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4471-5102-9"/>
+        <dcterms:hasPart rdf:resource="#item_210"/>
+        <dcterms:hasPart rdf:resource="http://jurnal.upnyk.ac.id/index.php/opsi/article/view/5330"/>
+        <dcterms:hasPart rdf:resource="#item_277"/>
+        <dcterms:hasPart rdf:resource="#item_279"/>
+        <dcterms:hasPart rdf:resource="https://www.jstor.org.pitt.idm.oclc.org/stable/2582993"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S0925527314001972"/>
+        <dcterms:hasPart rdf:resource="#item_287"/>
+        <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/document/9608492/?arnumber=9608492"/>
+        <dcterms:hasPart rdf:resource="https://wjarr.com/content/optimizing-inventory-management-and-demand-forecasting-system-using-time-series-algorithm"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_16">
+        <dc:title>case study</dc:title>
+        <dcterms:hasPart rdf:resource="#item_210"/>
+        <dcterms:hasPart rdf:resource="#item_277"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_14">
+        <dc:title>ingredient deterioration</dc:title>
+        <dcterms:hasPart rdf:resource="http://www.ijpab.com/vol11-iss1a3.php"/>
+        <dcterms:hasPart rdf:resource="https://journals.sagepub.com/doi/epdf/10.1177/1082013207079610"/>
+        <dcterms:hasPart rdf:resource="https://journalijecc.com/index.php/IJECC/article/view/3025"/>
+        <dcterms:hasPart rdf:resource="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0101-20612018000500001&amp;tlng=en"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_15">
+        <dc:title>perishable food</dc:title>
+        <dcterms:hasPart rdf:resource="#item_277"/>
+        <dcterms:hasPart rdf:resource="#item_279"/>
+        <dcterms:hasPart rdf:resource="https://www.jstor.org.pitt.idm.oclc.org/stable/2582993"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S0925527314001972"/>
+        <dcterms:hasPart rdf:resource="#item_287"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_12">
+        <dc:title>Marketing</dc:title>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1108/09596110510620663"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_11">
+        <dc:title>Menu</dc:title>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1177/1938965511410054"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1080/15378020802519850"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1108/09596119610119949"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_10">
+        <dc:title>Revenue Management</dc:title>
+        <dcterms:hasPart rdf:resource="http://pitt.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,uid&amp;db=aph&amp;AN=10445956&amp;scope=site"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_13">
+        <dc:title>Sales Forecasting</dc:title>
+        <dcterms:hasPart rdf:resource="#item_296"/>
+        <dcterms:hasPart rdf:resource="https://www.proquest.com/openview/0896ba645c57690d03b82d46048d1f9e/1?pq-origsite=gscholar&amp;cbl=5460956"/>
+        <dcterms:hasPart rdf:resource="#item_302"/>
+        <dcterms:hasPart rdf:resource="#item_303"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0167947301000147"/>
+        <dcterms:hasPart rdf:resource="http://www.revistasg.uff.br/index.php/sg/article/view/1188"/>
+        <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/document/9466036/?arnumber=9466036"/>
+        <dcterms:hasPart rdf:resource="#item_434"/>
+        <dcterms:hasPart rdf:resource="https://clutejournals.com"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S2212827119301568"/>
+    </z:Collection>
+</rdf:RDF>

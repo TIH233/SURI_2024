@@ -1,0 +1,15 @@
+这个就是把simulation里面的demand generator从一个固定的分布改成更符合原数据集的分布规律demand
+
+最后产出是一个.npy file，random demand在这个文件里就生成了导出到这个file.至于导入只要这一行：
+scaled_future_demand_array = np.load('scaled_future_demand_scenarios.npy')
+
+然后就是一个2D的矩阵，每一行是一天每一列是一个scenario
+
+至于具体的内容
+前面都是提取sales的部分然后verify证明确实更符合时间序列而且不会overfitting
+
+最后一个cell我还没跑，需要看具体跑多久来改一下
+
+老哥你现在可以先在optimal simulation那里面试一下看跑的效果如何，我除的scale已经包括在里面了
+
+然后我在给你最后的script的库存管理政策

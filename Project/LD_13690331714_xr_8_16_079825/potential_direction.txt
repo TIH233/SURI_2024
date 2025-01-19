@@ -1,0 +1,13 @@
+因为这个项目是想把（r,Q)的库存管理模型和预测相结合，所以需要一个实际的dataset去validate结论
+
+这两个方面scale不对齐是是因为simulation考虑的是单个原料（单位，种类都不详），forecast考虑的是整体的sales
+
+我当时的考虑是在固定的菜谱下，原料的消耗--菜品销量--整体sales是线性的关系，所以这两边是可以互通的
+
+虽然会有多个菜品对多个原料的复杂线性关系，但整体上我觉得可以把两边互通（没有现成数学模型的文献证明，如果performance不行那这就可能是原因）
+
+现在既然scale不对，就把他俩都normalization对齐
+
+simulation那一块就保持params不变，demand generation变成gamma (mean=10, cv^2  from 0.23 to 1的scale缩放（具体可能mean对齐，cv^2当时拟合是在这个范围内的）
+
+后面新模型simulation的脚本不是要调用forecast model,那就forecast出来后normalization，然后再在simulation的demand distribution里面放大用来计算statistics, performance, etc.

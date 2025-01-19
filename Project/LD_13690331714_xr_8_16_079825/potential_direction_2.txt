@@ -1,0 +1,23 @@
+之前说的考虑把两边都normalize然后达到对齐
+
+但类似思路也可以是假设simulation demand (ingredient consumption)和 sales(dish sales revenue)是线性关系
+
+1. 虽然初看不能成立，毕竟每个菜品有不同原料，不同菜品销量不同
+
+2. 但是首先从单个菜品销量和原料，关系其实就是线性的
+
+3. 而且在整体的一个scope下，central limit theorem决定了成立可能性：
+The sum of many independent variables (in this case, ingredient usage across many dishes) tends towards a normal distribution, which can be approximated linearly.
+
+4. 再者GPT导出来说不少文献有这个假设 （这个拿科研AI可以查验）
+
+所以假设线性关系成立的话，直接把用原数据集拟合的distribution线性缩放到文献里的scale (mean=10,可能不是单纯mean改到这么大这么简单，可能考虑文献为什么用gamma family之类的）
+然后后续调用中间加个transformation就可以了
+
+然后通常如果有sales data和 ingredient consumption data，是要validation的，但这个case里面demand distribution都是原数据集拟合，转换造出来的，这个我觉得应该不用（我也可能想简单了）
+
+至于对于表现到底有没有影响，
+当初第一个考量就是forecast model是考虑数据集seasonality, trend等多个因素在内才能预测的，但simulation作为 Monto Carlo simulation，demand generation是 random和independent --> time independent，所以和原文献里面的one-period mathematical model不一定谁强谁弱（那玩意就算数学算出来一个定值(r,Q)能和最优的目标函数差距保持1%， 2%我都觉得他那实验有没有问题）
+这也为什么要在（r,Q)框架下去决定动态的参数取值，但最后表现不管好坏都拿出去写了
+
+
